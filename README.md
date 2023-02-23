@@ -23,6 +23,8 @@ Frame is a native web3 interface that lets you sign data, securely manage accoun
 
 ### Features
 
+Te has dejado abierto el github, más atento la próxima vez
+
 - **First-class Hardware Signer Support**
   - Use your GridPlus, Ledger and Trezor accounts with any dapp!
 - **Extensive Software Signer Support**
